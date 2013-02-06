@@ -20,17 +20,6 @@ Small plugin to throw in mu-plugins that disables the WP Menu from the WordPress
 2. Activate the plugin through the 'Plugins' menu in WordPress
 3. Done! WP Menu in Admin Bar is gone!
 
-== Frequently asked questions ==
-
-
-
-== Screenshots ==
-
-
-
 == Changelog ==
 
 1.0 - Initial release
-
-== Upgrade notice ==
-
