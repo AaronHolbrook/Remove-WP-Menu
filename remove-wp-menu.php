@@ -3,7 +3,7 @@
  * Plugin Name: Remove Admin Bar WP Menu
  * Plugin URI: http://aaronjholbrook.com
  * Description: Remove the Admin Bar WP Menu/Icon
- * Version: 1.0.1
+ * Version: 1.0.2
  * Author: Aaron Holbrook
  * Author URI: http://aaronjholbrook.com
  * License: GPLv2
